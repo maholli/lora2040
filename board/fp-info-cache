@@ -1,4 +1,4 @@
-24089997268033056
+24092061392330157
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97912,6 +97912,13 @@ custom-footprints
 TTB12G51-balun
 
 
+0
+4
+4
+custom-footprints
+TXCO_2.0x1.6
+SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
+SMD SMT crystal
 0
 4
 4
