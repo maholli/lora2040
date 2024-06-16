@@ -1,4 +1,4 @@
-24076249419828348
+24089997268033056
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96474,6 +96474,13 @@ custom-footprints
 2
 2
 custom-footprints
+0900FM15K0039
+
+
+0
+10
+10
+custom-footprints
 1043P
 1043P
 Undefined or Miscellaneous
@@ -97622,6 +97629,13 @@ Integrated Circuit
 13
 13
 custom-footprints
+SON127P600X500X80-9N-D
+AS3004204-0054X0PWAY
+Integrated Circuit
+0
+9
+9
+custom-footprints
 SON127P600X500X90-9N
 <b>DFN Small Flag Package</b><br>{return}
 
@@ -97943,6 +97957,13 @@ Integrated Circuit
 0
 9
 9
+custom-footprints
+VQFN24_4X4MM_SX126x
+
+
+0
+25
+25
 custom-footprints
 VSON-10
 
@@ -98398,6 +98419,41 @@ sun
 0
 0
 0
+custom-footprints
+sx126x_C_0201
+
+
+0
+2
+2
+custom-footprints
+sx126x_L_0402
+
+
+0
+2
+2
+custom-footprints
+sx126x_L_0805
+
+
+0
+2
+2
+custom-footprints
+sx126x_R_0201
+
+
+0
+2
+2
+custom-footprints
+sx126x_Xtal
+
+
+0
+4
+4
 custom-footprints
 tie_down_2.54mm
 Through hole straight pin header, 1x02, 2.54mm pitch, single row
