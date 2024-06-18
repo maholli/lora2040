@@ -1,0 +1,23 @@
+{
+    "layout": {
+        "hspace": "3.2mm",
+        "cols": "2"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vwidth": "1.6mm",
+        "hwidth": "5mm",
+        "vcount": "0"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "drill": "0.7mm",
+        "spacing": "0.9mm",
+        "offset": "-0.5mm",
+        "prolong": "0.4mm"
+    },
+    "post": {
+        "millradius": "1.6mm",
+        "origin": "bl"
+    }
+}
