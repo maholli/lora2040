@@ -1,4 +1,4 @@
-24095498704983453
+24098997295936362
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97202,6 +97202,13 @@ mounting hole 4.3mm no annular m4
 1
 1
 custom-footprints
+MountingHole_M3_nopad
+Mounting Hole 2.5mm, no annular
+mounting hole 2.5mm no annular
+0
+0
+0
+custom-footprints
 NDS8434
 <b>Small Outline Package</b> Fits JEDEC packages (narrow SOIC-8)
 
@@ -97936,6 +97943,13 @@ A symbol representing annotation for tab placement
 0
 0
 0
+custom-footprints
+TestPoint_1mm
+
+
+0
+1
+1
 custom-footprints
 TrianglePad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
