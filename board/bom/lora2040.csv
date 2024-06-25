@@ -1,0 +1,37 @@
+Reference,Value,Footprint,Qty,Part Number,Manufacturer,Description
+C1,47nF,custom-footprints:sx126x_C_0201,1,,,"Multilayer ceramic capacitors X5R ±10%, 16V "
+C2,47pF,custom-footprints:sx126x_C_0201,1,,,"Multilayer ceramic capacitors COG ±5%, 50V "
+"C3,C4",15pF,custom-footprints:sx126x_C_0201,2,,,
+"C5,C6,C10,C11,C12,C13,C18,C21,C23",0.1uF,custom-footprints:sx126x_C_0201,9,,,-- mixed values --
+"C7,C9,C24,C26",1uF,Capacitor_SMD:C_0402_1005Metric,4,,,
+C8,39pF,custom-footprints:sx126x_C_0201,1,,,"Multilayer ceramic capacitors COG ±5%, 50V "
+"C14,C15",1nF,custom-footprints:sx126x_C_0201,2,,,"Unpolarized capacitor, small symbol"
+C16,1uF,custom-footprints:sx126x_C_0402,1,,,"Unpolarized capacitor, small symbol"
+C17,470nF,custom-footprints:sx126x_C_0402,1,,,"Unpolarized capacitor, small symbol"
+"C19,C20",0.1uF,Capacitor_SMD:C_0402_1005Metric,2,,,
+C22,10pF,custom-footprints:sx126x_C_0201,1,,,"Unpolarized capacitor, small symbol"
+C25,10nF,Capacitor_SMD:C_0402_1005Metric,1,,,
+C27,10uF,Capacitor_SMD:C_0402_1005Metric,1,,,
+D1,LED,LED_SMD:LED_0402_1005Metric,1,,,Light emitting diode
+FB1,BLM15PG100SN1D,custom-footprints:sx126x_L_0402,1,BLM15PG100SN1D,Murata Electronics,"Ferrite bead, small symbol"
+J1,u.FL,Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical,1,,,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+J2,USB_B_Micro,Connector_USB:USB_Micro-B_Molex-105017-0001,1,,,USB Micro Type B connector
+J5,Conn_01x02,Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical,1,,,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J6,Conn_02x06_Odd_Even,Connector_PinHeader_1.00mm:PinHeader_2x06_P1.00mm_Vertical,1,,,"Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+J8,Conn_01x04,Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical,1,,,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+L1,47nH,custom-footprints:sx126x_L_0402,1,LQW15AN47NJ00D,Murata Electronics,FIXED IND 47NH 210MA 1.08OHM SMD
+L7,15uH,custom-footprints:sx126x_L_0805,1,MLZ2012M150WT000,TDK Corporation,FIXED IND 15UH 250MA 950MOHM SMD
+"R1,R9",10K,custom-footprints:sx126x_R_0201,2,,,
+R2,1K,Resistor_SMD:R_0402_1005Metric,1,,,
+"R3,R4",100,custom-footprints:sx126x_R_0201,2,,,
+"R6,R7",27,custom-footprints:sx126x_R_0201,2,,,
+"R8,R11",1K,custom-footprints:sx126x_R_0201,2,,,
+R10,220,custom-footprints:sx126x_R_0201,1,,,
+U1,SX1262IMLTRT,custom-footprints:VQFN24_4X4MM_SX126x,1,SX1262IMLTRT,Semtech Corporation,"150 MHz to 960 MHz Low Power Long Range Transceiver, 22dBm output power, spreading factor from 5 to 12, LoRA, QFN-24"
+U2,BGS12WN6E6327,Package_LGA:Infineon_PG-TSNP-6-10_0.7x1.1mm_0.7x1.1mm_P0.4mm,1,BGS12WN6E6327,Infineon Technologies,"SPDT DC-9GHz switch, 45dB isolation at 960MHz, PG-TSNP-6-10"
+U3,0900FM15K0039001E,custom-footprints:0900FM15K0039,1,0900FM15K0039001E,Johanson Technology Inc.,"868MHz/915MHz Sub-GHz Impedance Matched Filter integrated passive for Semtech SX1261, SX1262, LLCC68"
+U4,MR20H40 or AS3004204,custom-footprints:SON127P600X500X90-9N,1,AS3004204-0054X0PWAY,Avalanche Technology,"4Mb MRAM memory with SPI interface, DFN-8"
+U5,RP2040,Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,1,SC0914,Raspberry Pi,IC MCU 32BIT EXT MEM 56QFN
+U6,RTX-2016BD32-S-32.000-TR,custom-footprints:TXCO_2.0x1.6,1,RTX-2016BD32-S-32.000-TR,Raltron Electronics,Raltron Electronics XTAL OSC TCXO 32MHZ 2.8V CLP SNW
+U7,TPS73633DBV or MIC5219-3.3YM5-TR?,Package_TO_SOT_SMD:SOT-23-5,1,MIC5219-3.3YM5-TR,Microchip Technology,"Cap free NMOS 400mA Low Drop 3.3V Regulator, SOT-23-5"
+Y2,ABM8-272-T3,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,1,ABM8-272-T3,Abracon LLC,CRYSTAL 12.0000MHZ 10PF SMD GND ON 2 AND 4
