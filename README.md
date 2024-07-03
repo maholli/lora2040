@@ -7,7 +7,7 @@ Will eventually reduce the size and add castellations for "mezzanine" style surf
 -----
 
 Reminders to myself:
-- [x] Initial bring with Everspin MRAM
+- [x] Initial bring-up with Everspin MRAM
   - [ ] Avalanche MRAM
 - [x] Full speed SX1262 interface
 - [ ] Measure TX output power
