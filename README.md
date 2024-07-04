@@ -11,4 +11,5 @@ Reminders to myself:
   - [ ] Avalanche MRAM
 - [x] Full speed SX1262 interface
 - [ ] Measure TX output power
-- [ ] Measure RX sensitivity 
+- [ ] Measure RX sensitivity
+- [ ] Maybe add an amp at some point?
