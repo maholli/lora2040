@@ -1,0 +1,18 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [
+        "Dual-core",
+        "External Flash",
+    ],
+    "images": [
+        ""
+    ],
+    "mcu": "rp2040",
+    "product": "RP2040 with SX1262",
+    "thumbnail": "",
+    "url": "",
+    "vendor": ""
+}
